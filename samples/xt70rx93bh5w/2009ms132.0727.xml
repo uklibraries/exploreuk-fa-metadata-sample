@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-kuk">2009ms132.0727</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Hall, Wade Collection of American Letters: Kenneth Valentine
+          family letters</titleproper>
+        <titleproper>Guide to the Wade Hall Collection of American Letters: Kenneth Valentine family
+          letters, 1915-1944 <num>2009ms132.0727</num></titleproper>
+        <author>Sarah Coblentz</author>
+        <sponsor>Processing made possible by the National Endowment for the Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>University of Kentucky Special Collections Research Center</publisher>
+        <p><date>2019 October 10</date></p>
+        <address>
+          <addressline>Special Collections Research Center</addressline>
+          <addressline>University of Kentucky Libraries</addressline>
+          <addressline>Margaret I. King Library</addressline>
+          <addressline>Lexington, Kentucky 40506-0039</addressline>
+          <addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new"
+              xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-03-25 13:25:19
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>University of Kentucky Special Collections Research Center</corpname>
+      </repository>
+      <unittitle>Wade Hall Collection of American Letters: Kenneth Valentine family
+        letters</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Valentine, Kenneth</persname>
+      </origination>
+      <unitid>2009ms132.0727</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.21 Cubic Feet</extent>
+        <extent altrender="carrier">7 folders</extent>
+      </physdesc>
+      <unitdate normal="1915/1944" type="inclusive">1915-1944</unitdate>
+      <abstract id="aspace_58b973d200b6a7a0b4d54e562832f106">The Kenneth Valentine family letters
+        (dated 1915-1944; 0.21 cubic feet; 7 folders) comprises letters sent to Kenneth Valentine
+        and his family from friends that document education and family life in Illinois in the early
+        twentieth century.</abstract>
+      <langmaterial>
+        <language langcode="eng">English</language> . </langmaterial>
+    </did>
+    <accessrestrict id="aspace_b45cbfb55cad00530958b7c50e139489">
+      <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_0a38f146652b1f9b8733f4a3e2dc3785">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift, 2000.</p>
+    </acqinfo>
+    <arrangement id="aspace_72d8eeed295272d9fb916f44fe3909eb">
+      <head>Arrangement</head>
+      <p>Collection is arranged by subject. The Wade Hall Collection of American Letters has been
+        processed into discrete collections based on provenance.</p>
+    </arrangement>
+    <bioghist id="aspace_5a1af87d9ad5ac364d3e4658fd0c1f9d">
+      <head>Biographical note</head>
+      <p>Kenneth Valentine (1908-1979) was born in Rockford, Illinois to John Gustaf Valentine
+        (1873-1938) and Selma Thornblade (b. 1876). John worked as a superintendent at a furniture
+        factory. Kenneth had three older brothers, Richard (b. 1901), Howard (1903-1989), and Ralph
+        (b. 1906). By 1940, Kenneth was listed in the United States Census working as a drill
+        operator. No other biographical information available.</p>
+      <p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.
+        Starting in 1962, he lived in Louisville, where he taught English and chaired the English
+        and Humanities/Arts programs at Kentucky Southern College and Bellarmine University. He also
+        taught at the University of Illinois and the University of Florida. He held degrees from
+        Troy State University (B.S.), the University of Alabama (M.A.), and the University of
+        Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was
+        the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama,
+        and Southern history and literature. His most recent books include <title render="italic">A
+          Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of
+          Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy
+          Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from
+          Conecuh Ridge</title>.</p>
+    </bioghist>
+    <prefercite id="aspace_30cb786203f21fb9fdd011b8287ff32f">
+      <head>Preferred Citation</head>
+      <p>2009ms132.0727: [identification of item], Wade Hall Collection of American Letters: Kenneth
+        Valentine family letters, 1915-1944, University of Kentucky Special Collections Research
+        Center.</p>
+    </prefercite>
+    <scopecontent id="aspace_36cdac93f20b6a750e34f8d699039e5f">
+      <head>Scope and Contents</head>
+      <p>The Kenneth Valentine family letters (dated 1915-1944; 0.21 cubic feet; 7 folders)
+        comprises letters sent to Kenneth Valentine and his family from friends that document
+        education and family life in Illinois in the early twentieth century. The letters to family
+        members discuss the birth of a grandchild, personal health, visiting each other, and
+        employment, school, and social outings with friends. The letters to Kenneth come from
+        friends and girlfriends, discussing dates, attending sporting events, thoughts on basketball
+        and football teams, studying for exams, fraternity participation, finding employment, and
+        personal health.</p>
+      <p>The Kenneth Valentine family letters collection is part of the Wade Hall Collection of
+        American Letters, which includes correspondence and diaries from all over North America
+        covering the time period of the Civil to Korean Wars. The materials were collected by Wade
+        Hall and document everyday men and women.</p>
+    </scopecontent>
+    <userestrict id="aspace_e9d0a9abfac0d0f5793f7ba07b3ba1ca">
+      <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of
+        Kentucky Special Collections Research Center.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="sh 85076240" source="lcsh">Letters.</subject>
+      <subject authfilenumber="sh 85033035" source="lcsh">Correspondence.</subject>
+      <subject source="ingest">Family.</subject>
+      <subject source="lcsh">Illinois</subject>
+      <subject source="lcsh">Education</subject>
+      <subject source="lcsh">Friendship.</subject>
+      <subject source="lcsh">Education, Higher.</subject>
+      <subject source="local">Sports tournaments</subject>
+      <subject source="lcsh">Sports.</subject>
+      <subject source="local">Young men -- United States -- Social life and customs -- 20th
+        century</subject>
+      <subject source="lcsh">Health</subject>
+      <subject source="lcsh">Man-woman relationships -- United States -- 20th century</subject>
+      <subject source="lcsh">Employment -- Illinois.</subject>
+      <subject source="lcsh">College students.</subject>
+      <persname rules="dacs" source="local">Valentine, Kenneth</persname>
+      <famname rules="rda" source="naf">Valentine family</famname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_77cf6aa7402b4fa96a2966755fec088a" level="file">
+        <did>
+          <unittitle>Delphin W. Floberg to Kenneth Valentine</unittitle>
+          <unitdate type="inclusive">1932</unitdate>
+          <container id="aspace_4fc3b3872f5e01ec2d38e34271112001" label="mixed materials" type="box"
+            >WH-79</container>
+          <container id="aspace_d5bd709095b32e98da8c55e3783159f0"
+            parent="aspace_4fc3b3872f5e01ec2d38e34271112001" type="folder">3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_79eda36dd92e3f5d04369dcd2a91f3fb" level="file">
+        <did>
+          <unittitle>Florence Fredericks to Kenneth Valentine</unittitle>
+          <unitdate type="inclusive">1926-1927</unitdate>
+          <container id="aspace_a0e3e74383218130c6fce1e8d0c1f33e" label="mixed materials" type="box"
+            >WH-79</container>
+          <container id="aspace_a7f39121f3d415dc0369cb62c4d68b7a"
+            parent="aspace_a0e3e74383218130c6fce1e8d0c1f33e" type="folder">4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_647da5f791b3066d7407ad8bf623c641" level="file">
+        <did>
+          <unittitle>Irene Keppen to Kenneth Valentine</unittitle>
+          <unitdate type="inclusive">1932</unitdate>
+          <container id="aspace_cba2ebabd87d05d265ec54fc8a050da5" label="mixed materials" type="box"
+            >WH-79</container>
+          <container id="aspace_39a7070d1459150c796280c5bb1e433d"
+            parent="aspace_cba2ebabd87d05d265ec54fc8a050da5" type="folder">5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_f36239b958d9a4cbd3cc75584a295c9c" level="file">
+        <did>
+          <unittitle>Letters to Kenneth Valentine</unittitle>
+          <unitdate type="inclusive">1931-1944</unitdate>
+          <container id="aspace_5d637e3c7084b7d65a803af85633b59b" label="mixed materials" type="box"
+            >WH-79</container>
+          <container id="aspace_71f18d0f6b126714986ec43636c89042"
+            parent="aspace_5d637e3c7084b7d65a803af85633b59b" type="folder">6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_3aea9ec540ba52606486f56852172161" level="file">
+        <did>
+          <unittitle>Letters to Howard Valentine</unittitle>
+          <unitdate type="inclusive">1922-1924</unitdate>
+          <container id="aspace_d31fdf7a030532ab126519f00722e512" label="mixed materials" type="box"
+            >WH-79</container>
+          <container id="aspace_dd53cdf25b8409c32c2e4182d6ffdbe6"
+            parent="aspace_d31fdf7a030532ab126519f00722e512" type="folder">7</container>
+        </did>
+      </c01>
+      <c01 id="aspace_18ee69699c104aa3b3d1e9d1c95811c9" level="file">
+        <did>
+          <unittitle>Letters to Richard Valentine</unittitle>
+          <unitdate type="inclusive">1915-1923</unitdate>
+          <container id="aspace_cfc248d268f443762c832b57cfded065" label="mixed materials" type="box"
+            >WH-79</container>
+          <container id="aspace_aa49fa9def048e7a9381f3b37fad2104"
+            parent="aspace_cfc248d268f443762c832b57cfded065" type="folder">8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_2e8e2bafd7e851197cd6b3a5b77234b5" level="file">
+        <did>
+          <unittitle>Letters to Selma Valentine</unittitle>
+          <unitdate type="inclusive">1930-1941</unitdate>
+          <container id="aspace_415f91eae84e6b4b1cd4b2122c20b2ca" label="mixed materials" type="box"
+            >WH-79</container>
+          <container id="aspace_3c03b8d5ac4f699f4a22f8773f2f6b60"
+            parent="aspace_415f91eae84e6b4b1cd4b2122c20b2ca" type="folder">9</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

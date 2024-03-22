@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2009ms132.1129</eadid><filedesc><titlestmt><titleproper type="filing">Hall, Wade Collection of American Letters: Leuze family photograph album</titleproper><titleproper>Guide to the Wade Hall Collection of American Letters: Leuze family photograph album, 1913, undated <num>2009ms132.1129</num></titleproper><author>Sarah Coblentz</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2021 January 29</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new" xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-05-20 10:06:16 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Wade Hall Collection of American Letters: Leuze family photograph album</unittitle>
+    <origination label="Creator">
+      <famname rules="rda" source="local">Leuze family</famname>
+    </origination>
+    <unitid>2009ms132.1129</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.29 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913, undated</unitdate>
+    <abstract id="aspace_19918fc31b081b0a8c7bbd779be346fd">The Leuze family photograph album (dated 1913, undated; 0.29 cubic feet; 1 box) comprises one photograph album that documents the lives and travels of the Leuze family and their friends in the United States and Europe in the early twentieth century.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_e3ea68f60566ee429ffc1c3473b9cd1a">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_426dbee7eb8ef185aa79fb44f1a73d34">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2000.</p>  </acqinfo>
+  <arrangement id="aspace_11b2d4820eaf84e265eb0b9c0f2c3205">
+    <head>Arrangement</head>
+<p>Collection retains its original order. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</p>  </arrangement>
+  <bioghist id="aspace_ebb2910d65fff2645cde63b2607289fe">
+    <head>Biographical note</head>
+<p>The Leuze family, of Columbus, Ohio included John Leuze, Elizabeth M. Doersam Leuze (1844-1898) and their four children: John F. (1870-1914), Elizabeth M. (1874-1901), Margaret (1874-1926), and Charles M. (1876-1945). The parents were both born in Germany and had immigrated to the United States by the time of their children's births. </p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>  </bioghist>
+  <prefercite id="aspace_c990e9e76fa19c7dd9c133a89d9831a7">
+    <head>Preferred Citation</head>
+<p>2009ms132.1129: [identification of item], Wade Hall Collection of American Letters: Leuze family photograph album, 1913, undated, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_78d8a8194436a17d4148f9ad801a71f5">
+    <head>Scope and Contents</head>
+<p>The Leuze family photograph album (dated 1913, undated; 0.29 cubic feet; 1 box) comprises one photograph album that documents the lives and travels of the Leuze family and their friends in the United States and Europe in the early twentieth century. The photographs depict friends and family spending time together, trips to Germany, California, and Canada; daily life in Ohio, parties attended, sightseeing, ocean travel on the Kaiser Wilhelm II, dressing up in costumes, and the growth of the Leuze family.</p><p>The Leuze family photograph album collection is part of the Wade Hall Collection of American letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>  </scopecontent>
+  <userestrict id="aspace_6a0e92e8b32a5d39456e4de46159478e">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="lcsh">Photograph albums.</genreform>
+    <subject source="lcsh">Families. </subject>
+    <subject source="lcsh">Ohio</subject>
+    <subject source="lcsh">Travel.</subject>
+    <geogname source="lcsh">Germany.</geogname>
+    <geogname source="lcsh">California.</geogname>
+    <subject source="lcsh">Ocean travel</subject>
+    <subject source="lcsh">Friendship.</subject>
+    <subject source="lcsh">German Americans.</subject>
+    <famname rules="rda" source="local">Leuze family</famname>
+  </controlaccess>
+  <dsc><c01 id="aspace_e42dc06e1b843fd85cd8fda6e2979a0e" level="item"><did><unittitle>Leuze family photograph album</unittitle><unitdate datechar="creation" type="inclusive">1913, undated</unitdate><container id="aspace_bf50711e1a2eaaee87bff35b89ed07e3" label="graphic materials" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

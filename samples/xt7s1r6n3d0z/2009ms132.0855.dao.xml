@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-kuk">2009ms132.0855</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Hall, Wade Collection of American Letters: John Fuller Taylor
+          papers</titleproper>
+        <titleproper>Guide to the Wade Hall Collection of American Letters: John Fuller Taylor
+          papers, 1885, 1924-1953, undated <num>2009ms132.0855</num></titleproper>
+        <author>Hanna Rumbarger</author>
+        <sponsor>Processing made possible by the National Endowment for the Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>University of Kentucky Special Collections Research Center</publisher>
+        <p><date>2020 January 30</date></p>
+        <address>
+          <addressline>Special Collections Research Center</addressline>
+          <addressline>University of Kentucky Libraries</addressline>
+          <addressline>Margaret I. King Library</addressline>
+          <addressline>Lexington, Kentucky 40506-0039</addressline>
+          <addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new" xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-04-02 14:44:34
+          -0400</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>University of Kentucky Special Collections Research Center</corpname>
+      </repository>
+      <unittitle>Wade Hall Collection of American Letters: John Fuller Taylor papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Taylor, John Fuller</persname>
+      </origination>
+      <unitid>2009ms132.0855</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.45 Cubic Feet</extent>
+        <extent altrender="carrier">1 box, 2 photographs</extent>
+      </physdesc>
+      <unitdate normal="1885/1953" type="inclusive">1885, 1924-1953, undated</unitdate>
+      <abstract id="aspace_0ac39cc7d76fa19fd5c5144f0d3b8d03">The John Fuller Taylor papers (dated
+        1885, 1924-1953, undated; 0.45 cubic feet; 1 box, 2 photographs) comprises letters,
+        photographs, postcards, papers, newspaper clippings, and a journal that document the life of
+        John Fuller Taylor, a young doctor from Barneveld, New York during the first part of the
+        twentieth century.</abstract>
+      <langmaterial>
+        <language langcode="eng">English</language> . </langmaterial>
+    </did>
+    <accessrestrict id="aspace_48e19e72309593669189d721c21eb806">
+      <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_d6b33d8a28d723a052dc697dcad78d86">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift, 2000.</p>
+    </acqinfo>
+    <arrangement id="aspace_a21075fc381c2c89a7da194e616fd6a1">
+      <head>Arrangement</head>
+      <p>Collection is arranged by subject. The Wade Hall Collection of American Letters has been
+        processed into discrete collections based on provenance.</p>
+    </arrangement>
+    <bioghist id="aspace_2bd6cbd768ebc927cad881a412ea0062">
+      <head>Biographical note</head>
+      <p>John Fuller Taylor (1912-1992) was born to Walter A. Taylor (1864-1947) and Lucy Eva Fuller
+        Taylor (1879-1959) of Barneveld, New York. Walter A. Taylor was a reverend and Lucy was a
+        public school teacher according to both of their obituaries. John Fuller Taylor attended
+        Holland Patent High School in Barneveld and went on to study at Cornell Univerity. John was
+        a biological chemistry professor at Cornell, Washington University and Harvard University
+        before becoming a doctor. John married Portia Hopper (1913-1993) on June 22, 1935 in Ithaca,
+        New York. John and Portia had two sons together, Herbert Hopper Taylor (b.1940) and Walter
+        Douglas Taylor (b.1943).</p>
+      <p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.
+        Starting in 1962, he lived in Louisville, where he taught English and chaired the English
+        and Humanities/Arts programs at Kentucky Southern College and Bellarmine University. He also
+        taught at the University of Illinois and the University of Florida. He held degrees from
+        Troy State University (B.S.), the University of Alabama (M.A.), and the University of
+        Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was
+        the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama,
+        and Southern history and literature. His most recent books include <title render="italic">A
+          Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of
+          Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy
+          Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from
+          Conecuh Ridge</title>.</p>
+    </bioghist>
+    <prefercite id="aspace_ed353b9cf9a12d982492c7b51d267f44">
+      <head>Preferred Citation</head>
+      <p>2009ms132.0855: [identification of item], Wade Hall Collection of American Letters: John
+        Fuller Taylor papers, 1885, 1924-1953, undated, University of Kentucky Special Collections
+        Research Center.</p>
+    </prefercite>
+    <scopecontent id="aspace_b79401fbb88420d36447a4fca9b5f2a6">
+      <head>Scope and Contents</head>
+      <p>The John Fuller Taylor papers (dated 1885, 1924-1953, undated; 0.45 cubic feet; 1 box, 2
+        photographs) comprises letters, photographs, postcards, papers, newspaper clippings, and a
+        journal that document the life of John Fuller Taylor, a young doctor from Barneveld, New
+        York during the first part of the twentieth century. The letters in this collection are sent
+        to John from his wife, parents and aunt. His wife writes to John while the two are apart
+        from one another, whether it be a vacation, trip to home or professional trips. She sends
+        him many love letters and postcards while she takes a vacation with friends in Tennessee and
+        out west to California. John's parents both write to John frequently. Their letters discuss
+        sending money, weather, town gossip, their health and plans to come visit John while he is
+        in St. Louis, Missouri. Once John and Portia have their two sons, Herbert and Walter, John's
+        mother draws pictures on the back of the letters for them. The two photographs in this
+        collection include a photo of a front porch and a portrait of a member of the Taylor family.
+        The journal is a cash account kept during John's time at Cornell University. The newspaper
+        clippings feature obituaries of John's parents and other members of the Taylor family. Also
+        featured are comic strips, Barneveld church services and news about the local Boy Scout
+        troop. </p>
+      <p>The John Fuller Taylor papers collection is part of the Wade Hall Collection of American
+        letters, which includes correspondence and diaries from all over North America covering the
+        time period of the Civil to Korean Wars. The materials were collected by Wade Hall and
+        document everyday men and women.</p>
+    </scopecontent>
+    <userestrict id="aspace_2e269ec426b8482dc905877f6a017e0c">
+      <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of
+        Kentucky Special Collections Research Center.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="sh 85076240" source="lcsh">Letters.</subject>
+      <subject authfilenumber="sh 85078536" source="lcsh">Love-letters</subject>
+      <genreform source="lcsh">Condolence letters.</genreform>
+      <subject source="lcsh">Universities and colleges.</subject>
+      <subject source="lcsh">Universities and colleges -- Faculty.</subject>
+      <genreform authfilenumber="https://lccn.loc.gov/gf2014026132" source="lcsh">Newspapers</genreform>
+      <geogname source="lcsh">New York (N.Y.)</geogname>
+      <genreform source="aat">Photographs</genreform>
+      <geogname source="lcsh">California.</geogname>
+      <subject source="lcsh">Postcards.</subject>
+      <subject source="lcsh">Medical education.</subject>
+      <subject source="lcsh">Drawing.</subject>
+      <persname rules="dacs" source="local">Taylor, John Fuller</persname>
+      <persname rules="dacs" source="local">Taylor, Portia Hopper</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_7bd14df242a78b5974b13fb4373b2614" level="file">
+        <did>
+          <unittitle>Letters to John Fuller Taylor</unittitle>
+          <unitdate type="inclusive">1924-1947</unitdate>
+          <container id="aspace_b29a8d038bbac83612d732af440e63f4" label="mixed materials" type="box">1</container>
+          <container id="aspace_d2cc8528f43970a3074d4bc569e8a08f" parent="aspace_b29a8d038bbac83612d732af440e63f4" type="folder">1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_2dc9775b286a7bef2272cff9e3060a43" level="file">
+        <did>
+          <unittitle>Walter A. Taylor to John Fuller Taylor</unittitle>
+          <unitdate type="inclusive">1925-1946, undated</unitdate>
+          <container id="aspace_9f55f383a2a49121105b7fe52ab39309" label="mixed materials" type="box">1</container>
+          <container id="aspace_59549c0c356391c33bc8765ed7f197e6" parent="aspace_9f55f383a2a49121105b7fe52ab39309" type="folder">2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_89f386714712a4a3847d5ab3ca5293b7" level="file">
+        <did>
+          <unittitle>Lucy Eva Taylor to John Fuller Taylor</unittitle>
+          <unitdate type="inclusive">1927-1943</unitdate>
+          <container id="aspace_24b29396a3eab08b30eefa4fd6e01332" label="mixed materials" type="box">1</container>
+          <container id="aspace_6a270e8f74a3a85cf0e1e10eb68dac74" parent="aspace_24b29396a3eab08b30eefa4fd6e01332" type="folder">3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_05517529acd8d46596b840746ada6ec9" level="file">
+        <did>
+          <unittitle>Jessie A. Fuller to John Fuller Taylor</unittitle>
+          <unitdate type="inclusive">1931-1950, undated</unitdate>
+          <container id="aspace_b51a7a78014f56bfb2a97a6e9fcb4765" label="mixed materials" type="box">1</container>
+          <container id="aspace_80df81bb57397500ba1dabaae4a9ea99" parent="aspace_b51a7a78014f56bfb2a97a6e9fcb4765" type="folder">4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_63d6d4c1f70053a7db1c217ae793296b" level="file">
+        <did>
+          <unittitle>Portia Taylor to John Fuller Taylor</unittitle>
+          <unitdate type="inclusive">1937-1946, undated</unitdate>
+          <container id="aspace_f74297e2c77fe500dd5850bd3d5c9708" label="mixed materials" type="box">1</container>
+          <container id="aspace_8076b4d2240a431f0b19e24e8bcf14d3" parent="aspace_f74297e2c77fe500dd5850bd3d5c9708" type="folder">5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_58288711407c3bcca72e23b56c929e27" level="file">
+        <did>
+          <unittitle>Lucy Eva Taylor to John Fuller Taylor</unittitle>
+          <unitdate type="inclusive">1944-1953, undated</unitdate>
+          <container id="aspace_2322d6495023e8e80a3b16cc9bbb7b71" label="mixed materials" type="box">1</container>
+          <container id="aspace_68acef24ad389fa78b75af8d53544c20" parent="aspace_2322d6495023e8e80a3b16cc9bbb7b71" type="folder">6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_6d3f63befd2a2e0d36b156e8ebcb1161" level="file">
+        <did>
+          <unittitle>William Horr to John Fuller Taylor</unittitle>
+          <unitdate type="inclusive">1945-1947</unitdate>
+          <container id="aspace_0d6d0efb2e77e034d306696fec7d2f35" label="mixed materials" type="box">1</container>
+          <container id="aspace_8ce6240043bb9b10ee14288cb6a85018" parent="aspace_0d6d0efb2e77e034d306696fec7d2f35" type="folder">7</container>
+        </did>
+      </c01>
+      <c01 id="aspace_3a2f4a1ef04c19796bc8241a7c6a0d19" level="file">
+        <did>
+          <unittitle>John Fuller Taylor to Portia Taylor</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_5f2ffdbeef5c2d31545f35cf1efd2d09" label="mixed materials" type="box">1</container>
+          <container id="aspace_0423eaf80f12f79348e6fd0b4dbaf879" parent="aspace_5f2ffdbeef5c2d31545f35cf1efd2d09" type="folder">8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_7579cb4b2a9aa1536798376ff174c78b" level="file">
+        <did>
+          <unittitle>Letters to Lucy Eva Fuller</unittitle>
+          <unitdate type="inclusive">1948</unitdate>
+          <container id="aspace_44a1c7d2e5a4f1f56d42f30d1b3d0bb0" label="mixed materials" type="box">1</container>
+          <container id="aspace_bc98cbc76bdef03614887371180c50e0" parent="aspace_44a1c7d2e5a4f1f56d42f30d1b3d0bb0" type="folder">9</container>
+        </did>
+      </c01>
+      <c01 id="aspace_69ce5644ba14c53827bab22742b5af00" level="file">
+        <did>
+          <unittitle>Postcards to John Fuller Taylor</unittitle>
+          <unitdate type="inclusive">1932-1940</unitdate>
+          <container id="aspace_0b230ca49cd14dcacd2b12e5243a11c4" label="mixed materials" type="box">1</container>
+          <container id="aspace_7430beb904524a2b53c3e0c992817e0c" parent="aspace_0b230ca49cd14dcacd2b12e5243a11c4" type="folder">10</container>
+        </did>
+      </c01>
+      <c01 id="aspace_6a70e8a4fdb382be903225c8e67de4cd" level="file">
+        <did>
+          <unittitle>John Fuller Taylor professional papers</unittitle>
+          <unitdate type="inclusive">1932-1950</unitdate>
+          <container id="aspace_355a641d250aa49a2fe6bec5bfced7ae" label="mixed materials" type="box">1</container>
+          <container id="aspace_5d85f8ae01eaa5916a8e19bf6cc1e51a" parent="aspace_355a641d250aa49a2fe6bec5bfced7ae" type="folder">11</container>
+        </did>
+      </c01>
+      <c01 id="aspace_58f5f60514d1b6c2ef571be2d4a2930d" level="file">
+        <did>
+          <unittitle>Newspaper clippings</unittitle>
+          <unitdate type="inclusive">1941-1947, undated</unitdate>
+          <container id="aspace_402d2c68ecfaf7dbd1b4e9161b9f1ae5" label="mixed materials" type="box">1</container>
+          <container id="aspace_06ca38421d3191dd27cedc506eef88c4" parent="aspace_402d2c68ecfaf7dbd1b4e9161b9f1ae5" type="folder">12</container>
+        </did>
+      </c01>
+      <c01 id="aspace_d3e3700c796f8d7c4a24785db279c209" level="file">
+        <did>
+          <unittitle>Cash account book</unittitle>
+          <unitdate type="inclusive">1929-1935</unitdate>
+          <container id="aspace_d9afccb83b8615f8a28df5271f9b54ba" label="mixed materials" type="box">1</container>
+          <container id="aspace_133d625dbf6be6f691146692dc4282cc" parent="aspace_d9afccb83b8615f8a28df5271f9b54ba" type="folder">13</container>
+        </did>
+      </c01>
+      <c01 id="aspace_c67c1795ee8d5a2ed60eed11dec48843" level="item">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <unitdate type="inclusive">1885, undated</unitdate>
+          <container id="aspace_f62c28db18cc18cf7e6b55f03a21fef8" label="graphic materials" type="box">WH-95</container>
+          <container id="aspace_e97a6e1cbdf83bfd78ebfc096e504ad3" parent="aspace_f62c28db18cc18cf7e6b55f03a21fef8" type="item">1-2</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

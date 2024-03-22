@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://exploreuk.uky.edu/catalog/xt71jw86jv7b/guide">2012av010</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>T. P. Curry photographic album, 1906-1908
+                    <num>2012av010</num>
+                </titleproper>
+                <titleproper type="filing">Curry, T. P. photographic album</titleproper>
+                <author>Finding aid prepared by Kasey Kelm</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://kdl.kyvl.org/images/seals/ukseal.gif"/>
+                </p>
+                <publisher>University of Kentucky Special Collections</publisher>
+                <address>
+                    <addressline>Special Collections</addressline>
+                    <addressline>Margaret I. King Building, North</addressline>
+                    <addressline>Lexington, KY, 40506-0039</addressline>
+                    <addressline>(859) 257-8611</addressline>
+                    <addressline>SCLREF@LSV.UKY.EDU</addressline>
+                </address>
+                <date>2013 June 17</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-02-26T16:19-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2014 February 6</date>
+                <item></item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>T.P. Curry photographic album</unittitle>
+            <unitid>2012av010</unitid>
+            <repository>
+                <corpname>University of Kentucky Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.1 Cubic feet</extent>
+                <extent>1 box, 116 items</extent>
+            </physdesc>
+            <unitdate>1906-1908</unitdate>
+            <abstract id="ref143" label="Abstract">The T. P. Curry photographic album (dated 1906-1908; 0.1 cubic feet; 116 items) consists of pasted silver gelatin prints and handwritten notions, taken or assembled by T. P Curry as indicated on inner cover.</abstract>
+        </did>
+        <prefercite id="ref141">
+            <head>Preferred Citation note</head>
+            <p>2012av010: [identification of item], T. P. Curry photographic album, 1906-1908, University of Kentucky Special Collections.</p>
+        </prefercite>
+        <userestrict id="ref140">
+            <head>Conditions Governing Use note</head>
+            <p>Property rights reside with the University of Kentucky. The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky. For information about permission to reproduce or publish, please contact Special Collections.</p>
+        </userestrict>
+        <accessrestrict id="ref139">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open to researchers by appointment.</p>
+        </accessrestrict>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>The T. P. Curry photographic album (dated 1906-1908; 0.1 cubic feet; 116 items) consists of pasted silver gelatin prints and handwritten notations, taken or assembled by T. P Curry as indicated on inner cover. The photographs, taken mostly in Boyle County, Kentucky, depict waterways, mills, railroad bridges, the Perryville Battlefield State Historic Site, and hemp farming. Additionally, the collection contains photographs of Camp Nelson in Jessamine County, Kentucky.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname rules="aacr" source="local">Curry, T. P.</persname>
+            <geogname source="lcsh">Boyle County (Ky.)</geogname>
+            <subject source="lcsh">Bridges--Kentucky</subject>
+            <geogname source="lcsh">Camp Nelson (Ky.)</geogname>
+            <genreform source="aat">gelatin silver prints</genreform>
+            <subject source="lcsh">Hemp industry--Kentucky.</subject>
+            <subject source="lcsh">Hemp--Harvesting--Machinery--Photographs.</subject>
+            <subject source="lcsh">Hemp--Kentucky.</subject>
+            <geogname source="lcsh">Perryville Battlefield State Historic Site (Ky.)</geogname>
+            <genreform source="lcsh">Photograph albums.</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Waterways--United States</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref2" level="item">
+                <did>
+                    <unittitle>Cattle in a river, notation 
+                        <emph render="doublequote">Lanier's Cattle</emph></unittitle>
+                    <container id="cid3044043" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044043" type="Item">1</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref4" level="item">
+                <did>
+                    <unittitle>Cattle standing on banks of river, one cow in river, notation 
+                        <emph>Lanier's Cattle - Clarks Run</emph></unittitle>
+                    <container id="cid3044044" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044044" type="Item">2</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref6" level="item">
+                <did>
+                    <unittitle>River, fencing on left bank, notation 
+                        <emph>Wilson's Run</emph></unittitle>
+                    <container id="cid3044045" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044045" type="Item">3</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref7" level="item">
+                <did>
+                    <unittitle>River, bluffs on left bank, flat rocks on right, notation 
+                        <emph>Dick's River - in Rice's Bend - Boyle County - 1906</emph></unittitle>
+                    <container id="cid3044046" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044046" type="Item">4</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref8" level="item">
+                <did>
+                    <unittitle>Small river, light colored cow standing in river, stone fencing in background, log across river, notation 
+                        <emph>Clarks Run - above R.R. crossing</emph></unittitle>
+                    <container id="cid3044047" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044047" type="Item">5</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref9" level="item">
+                <did>
+                    <unittitle>River with small trees on banks, notation 
+                        <emph>Clarks Run - near Slaughter Place</emph></unittitle>
+                    <container id="cid3044048" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044048" type="Item">6</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>River with tall trees on left bank, notation 
+                        <emph>Clarks Run - (J.C. McConnell's) 1906</emph></unittitle>
+                    <container id="cid3044049" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044049" type="Item">7</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>Small bridge over dried up river, railing on one side, fencing in right foreground, road leading away from bridge on left, notation 
+                        <emph>Germantown Bridge</emph></unittitle>
+                    <container id="cid3044050" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044050" type="Item">8</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>Field with scattering of trees, notation 
+                        <emph>A Corner in Hemp</emph></unittitle>
+                    <container id="cid3044051" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044051" type="Item">9</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref13" level="item">
+                <did>
+                    <unittitle/>
+                    <container id="cid3044052" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044052" type="Item">10</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>Creek with trees on right bank and bluffs on left</unittitle>
+                    <container id="cid3044053" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044053" type="Item">11</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>River with stone border on left side, plank leading from bank to little island, notation 
+                        <emph>On Wilson's Run - Boyle Co. Ky. 1906</emph></unittitle>
+                    <container id="cid3044054" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044054" type="Item">12</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>Creek with stone and wooden fence across</unittitle>
+                    <container id="cid3044055" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044055" type="Item">13</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>Two creeks coming together, large rocks and small trees in between</unittitle>
+                    <container id="cid3044056" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044056" type="Item">14</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref20">
+                    <head>General note</head>
+                    <p>see photo 17 for different photo of same creek</p>
+                </odd>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>Low river, multiple fallen trees and brances, left bank is very rocky, notation 
+                        <emph>Last stretch of Wilson's Run - Apr. 8, 1906</emph></unittitle>
+                    <container id="cid3044057" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044057" type="Item">15</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref19" level="item">
+                <did>
+                    <unittitle>Bend in river, stone walled bank on left</unittitle>
+                    <container id="cid3044058" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044058" type="Item">16</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref22" level="item">
+                <did>
+                    <unittitle>Two creeks converging to one, large rock in center and on right bank</unittitle>
+                    <container id="cid3044059" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044059" type="Item">17</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref23">
+                    <head>General note</head>
+                    <p>see photo 14 for a different photo of same creek</p>
+                </odd>
+            </c01>
+            <c01 id="ref24" level="item">
+                <did>
+                    <unittitle>Dirt roadway on left of picture leading under stone arch of bridge, river or pond on right with metal fenced in area</unittitle>
+                    <container id="cid3044060" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044060" type="Item">18</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref25" level="item">
+                <did>
+                    <unittitle>Young girl wearing white dress with embroidery holding a corn cob and feeding couple dozen ducks, porch with white lattice underneath, horse in background</unittitle>
+                    <container id="cid3044061" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044061" type="Item">19</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref26" level="item">
+                <did>
+                    <unittitle>Large pond surrounded by trees, three white ducks swimming in foreground</unittitle>
+                    <container id="cid3044062" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044062" type="Item">20</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref27" level="item">
+                <did>
+                    <unittitle>Large pond surrounded by trees, two white ducks swimming, two women and two children walking along road on far right</unittitle>
+                    <container id="cid3044063" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044063" type="Item">21</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref28" level="item">
+                <did>
+                    <unittitle>Wooden bridge built over creek, fencing along left bank</unittitle>
+                    <container id="cid3044064" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044064" type="Item">22</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref29" level="item">
+                <did>
+                    <unittitle>Small creek with two ducks swimming, wooden posts and fencing running along right bank, rocks built up along left bank, small road in left background</unittitle>
+                    <container id="cid3044065" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044065" type="Item">23</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref30" level="item">
+                <did>
+                    <unittitle>River crossing a low roadyway, wooden fencing on left with horse and small carriage in background, wooden bridge crossing river on right, notation 
+                        <emph>Chaplin River (at crossing of Mitchelsburg Pike) 1906</emph></unittitle>
+                    <container id="cid3044066" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044066" type="Item">24</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref31" level="item">
+                <did>
+                    <unittitle>Small river with two ducks swimming in distance, roadway on left, wooden fencing on right</unittitle>
+                    <container id="cid3044067" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044067" type="Item">25</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref32" level="item">
+                <did>
+                    <unittitle>Fallen tree leaning over dry creekbed, more fallen trees in background, roadway to left</unittitle>
+                    <container id="cid3044068" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044068" type="Item">26</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref33" level="item">
+                <did>
+                    <unittitle>Walking path running alongside creek, mailbox in distance</unittitle>
+                    <container id="cid3044069" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044069" type="Item">27</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref34" level="item">
+                <did>
+                    <unittitle>Small wooden structure to right, notation 
+                        <emph>Beeches in Ravine South of Moritz Mountains. May 14, 1907</emph></unittitle>
+                    <container id="cid3044070" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044070" type="Item">28</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref35" level="item">
+                <did>
+                    <unittitle>Small creek with roadway leading out of it, walkway along right bank</unittitle>
+                    <container id="cid3044071" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044071" type="Item">29</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref36" level="item">
+                <did>
+                    <unittitle>Roadway running along steep hill, sharp dropoff to right of road</unittitle>
+                    <container id="cid3044072" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044072" type="Item">30</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref37" level="item">
+                <did>
+                    <unittitle>Hemp drying in stooks, three buildings in distance to left</unittitle>
+                    <container id="cid3044073" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044073" type="Item">31</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref38" level="item">
+                <did>
+                    <unittitle>Shallow rocky creek</unittitle>
+                    <container id="cid3044074" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044074" type="Item">32</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref39" level="item">
+                <did>
+                    <unittitle>Man harvesting hemp by hand</unittitle>
+                    <container id="cid3044075" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044075" type="Item">33</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref40" level="item">
+                <did>
+                    <unittitle>Three women standing under a large tree in hemp field, two wearing white, one wearing black, woman in middle holding a camera</unittitle>
+                    <container id="cid3044076" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044076" type="Item">34</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref41" level="item">
+                <did>
+                    <unittitle>Harvested hemp drying in a stook, houses and buildings in distance</unittitle>
+                    <container id="cid3044077" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044077" type="Item">35</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref42" level="item">
+                <did>
+                    <unittitle>Hemp drying in stooks, buildings in distance to the left</unittitle>
+                    <container id="cid3044078" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044078" type="Item">36</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref43" level="item">
+                <did>
+                    <unittitle>Cart of hemp with man standing on top, two horses drawing cart, two men holding a bundle of hemp hung off wooden plank, man observing, notation 
+                        <emph>Weighing up Hemp at Close of Day's work. Forgarty's - season 1906-7</emph></unittitle>
+                    <container id="cid3044079" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044079" type="Item">37</container>
+                    <unitdate>1906-1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref44" level="item">
+                <did>
+                    <unittitle>Notation 
+                        <emph>Hemp Stacks - Jno. Burgin's - Sep. 30. 1906</emph></unittitle>
+                    <container id="cid3044080" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044080" type="Item">38</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref45" level="item">
+                <did>
+                    <unittitle>Man placing hemp in wooden device, burning hemp to left, notation 
+                        <emph>Uncle Ben (Durham) - Breaking Hemp - Season 1906-7</emph></unittitle>
+                    <container id="cid3044081" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044081" type="Item">39</container>
+                    <unitdate>1906-1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref46" level="item">
+                <did>
+                    <unittitle>Man running hemp over wooden blocks with large spikes, large piles of hemp</unittitle>
+                    <container id="cid3044082" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044082" type="Item">40</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref47">
+                    <head>General note</head>
+                    <p>Man is possibly Uncle Ben from 39 and 42</p>
+                </odd>
+            </c01>
+            <c01 id="ref48" level="item">
+                <did>
+                    <unittitle>Laughing woman, wearing head wrap, patterned blouse, and apron, fencing behind her</unittitle>
+                    <container id="cid3044083" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044083" type="Item">41</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref49" level="item">
+                <did>
+                    <unittitle>Laughing man wearing hat holding hemp</unittitle>
+                    <container id="cid3044084" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044084" type="Item">42</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref50">
+                    <head>General note</head>
+                    <p>Man is possibly "Uncle Ben" from 39 and 40</p>
+                </odd>
+            </c01>
+            <c01 id="ref51" level="item">
+                <did>
+                    <unittitle>Danville train station, chimney reading 
+                        <emph>Planning Mill</emph>, man and small child standing on sidewalk, hose on grass, building in back readings 
+                        <emph>Royal Blue</emph></unittitle>
+                    <container id="cid3044085" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044085" type="Item">43</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref52" level="item">
+                <did>
+                    <unittitle>Stooks of hemp surrounding small white house in field</unittitle>
+                    <container id="cid3044086" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044086" type="Item">44</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref53">
+                    <head>General note</head>
+                    <p>Photo is too large to fit on one page, the left third has been folded over to fit</p>
+                </odd>
+            </c01>
+            <c01 id="ref54" level="item">
+                <did>
+                    <unittitle>Danville, Kentucky (Boyle County), large building is the Caldwell Institute</unittitle>
+                    <container id="cid3044087" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044087" type="Item">45</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref55" level="item">
+                <did>
+                    <unittitle>Centre College's Main Building</unittitle>
+                    <container id="cid3044088" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044088" type="Item">46</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref56" level="item">
+                <did>
+                    <unittitle>Dilapidated wooden building with fallen wooden fencing in front on bank of small pond, notation 
+                        <emph>Pondon Pike South of Shakertown Oct. 14. 1906</emph></unittitle>
+                    <container id="cid3044089" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044089" type="Item">47</container>
+                    <unitdate>1906 Oct 14</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref57" level="item">
+                <did>
+                    <unittitle>Wooden bridge running over dry creekbed, dirt road shored up with stones, wooden fencing along road and in background</unittitle>
+                    <container id="cid3044090" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044090" type="Item">48</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref58" level="item">
+                <did>
+                    <unittitle>High wooden bridge with railing built over low river, road shored up with stones</unittitle>
+                    <container id="cid3044091" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044091" type="Item">49</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref59" level="item">
+                <did>
+                    <unittitle>Shallow river with small rocks, woman and horse drawing phaeton in background, notation 
+                        <emph>Clark's Run - at crossing of road from Lex. To Lancaster Pikes - July 4, 1906. Mrs. T.P.C. in Phaeton</emph></unittitle>
+                    <container id="cid3044092" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044092" type="Item">50</container>
+                    <unitdate>1906 Jul 4</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref60" level="item">
+                <did>
+                    <unittitle>Three young boys, two wearing hats, and one young girl wearing a hat, standing in a creek in front of large tree, notation 
+                        <emph>McConnell's Big Sycamore - Clark's Run 1906</emph></unittitle>
+                    <container id="cid3044093" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044093" type="Item">51</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref61" level="item">
+                <did>
+                    <unittitle>Shallow creek with small walking path running up hill on right, notation 
+                        <emph>Wilson's Run. Meauxtown Road, 1906</emph></unittitle>
+                    <container id="cid3044094" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044094" type="Item">52</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref62" level="item">
+                <did>
+                    <unittitle>Dirt road with split-rail fencing on left and regular wooden fencing on right</unittitle>
+                    <container id="cid3044095" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044095" type="Item">53</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref63" level="item">
+                <did>
+                    <unittitle>Dirt road forking in distance, possibly a rail road crossing in distance</unittitle>
+                    <container id="cid3044096" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044096" type="Item">54</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref64" level="item">
+                <did>
+                    <unittitle>River with walking path along left bank, notation 
+                        <emph>Wilson's Run at Crossing of Meauxtown Road.</emph></unittitle>
+                    <container id="cid3044097" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044097" type="Item">55</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref65" level="item">
+                <did>
+                    <unittitle>Creek with roughly constructed barbed wire fence strung across it, notation 
+                        <emph>Wilson's Run on Shakertown Pike, 1906</emph></unittitle>
+                    <container id="cid3044098" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044098" type="Item">56</container>
+                    <unitdate>1906</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref66" level="item">
+                <did>
+                    <unittitle>River with log lain across it, notation 
+                        <emph>Harrod's Run below Junction with Wilson's Run. May 2, 1907</emph></unittitle>
+                    <container id="cid3044099" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044099" type="Item">57</container>
+                    <unitdate>1907 May 2</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref67" level="item">
+                <did>
+                    <unittitle>Wide creek with small tiered waterfalls</unittitle>
+                    <container id="cid3044100" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044100" type="Item">58</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref68" level="item">
+                <did>
+                    <unittitle>Wide creek running through forest with fallen trees in creek</unittitle>
+                    <container id="cid3044101" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044101" type="Item">59</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref69" level="item">
+                <did>
+                    <unittitle>Creek reflecting small bluffs rising above it</unittitle>
+                    <container id="cid3044102" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044102" type="Item">60</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref70" level="item">
+                <did>
+                    <unittitle>Shallow river running through rocky area with bluffs rising above in distance</unittitle>
+                    <container id="cid3044103" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044103" type="Item">61</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref71" level="item">
+                <did>
+                    <unittitle>Small river with many rocks along edge, bluffs rising in distance</unittitle>
+                    <container id="cid3044104" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044104" type="Item">62</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref72" level="item">
+                <did>
+                    <unittitle>View up side of rocky ravine, possibly dried up river bed</unittitle>
+                    <container id="cid3044105" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044105" type="Item">63</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref73" level="item">
+                <did>
+                    <unittitle>Creek with bluffs rising up the right hand bank, man standing on rocks on edge of creek with camera on tripod, notation 
+                        <emph>Harrod's Run Cliff, H.G. Candifer, May 2, 1907</emph></unittitle>
+                    <container id="cid3044106" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044106" type="Item">64</container>
+                    <unitdate>1907 May 2</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref74" level="item">
+                <did>
+                    <unittitle>Small creek in forest with rocky banks</unittitle>
+                    <container id="cid3044107" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044107" type="Item">65</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref75" level="item">
+                <did>
+                    <unittitle>River narrowing sharply, possibly a bridge or wall in background</unittitle>
+                    <container id="cid3044108" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044108" type="Item">66</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref77">
+                    <head>General note</head>
+                    <p>see photo 68</p>
+                </odd>
+            </c01>
+            <c01 id="ref76" level="item">
+                <did>
+                    <unittitle>Calm river with large rocks on near bank, bluffs rising in distance</unittitle>
+                    <container id="cid3044109" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044109" type="Item">67</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref78" level="item">
+                <did>
+                    <unittitle>River narrowing sharply, possibly a bridge or wall in background</unittitle>
+                    <container id="cid3044110" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044110" type="Item">68</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref79">
+                    <head>General note</head>
+                    <p>reproduction of 66</p>
+                </odd>
+            </c01>
+            <c01 id="ref80" level="item">
+                <did>
+                    <unittitle>River with small pool created by fallen tree in foreground, bluffs in background, notation 
+                        <emph>On Dick's River, near Frying Pan</emph></unittitle>
+                    <container id="cid3044111" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044111" type="Item">69</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref81" level="item">
+                <did>
+                    <unittitle>Bend in river, small riffles, bluffs rising on left bank, large branch hanging out over river</unittitle>
+                    <container id="cid3044112" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044112" type="Item">70</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref82" level="item">
+                <did>
+                    <unittitle>Calm section of river, rocky right bank, large flat rocks in river, notation 
+                        <emph>Dick's River above mouth of Harrod's Run (A.S. Robertson) 1907</emph></unittitle>
+                    <container id="cid3044113" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044113" type="Item">71</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref83" level="item">
+                <did>
+                    <unittitle>Calm section of river, large flat rock in water with fallen branches, fallen tree in background, notation 
+                        <emph>Dick's River above mouth of Harrod's Run 1907</emph></unittitle>
+                    <container id="cid3044114" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044114" type="Item">72</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref84" level="item">
+                <did>
+                    <unittitle>Small waterfalls in river, one appears to be manmade, bluffs on far bank</unittitle>
+                    <container id="cid3044115" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044115" type="Item">73</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref85" level="item">
+                <did>
+                    <unittitle>View across forested ravine of large building, smaller building behind it, and large stone fence</unittitle>
+                    <container id="cid3044116" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044116" type="Item">74</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref86" level="item">
+                <did>
+                    <unittitle>Calm river with sizeable rocks across river and on banks, bluffs on left bank, buildings in extreme distance on hilltop</unittitle>
+                    <container id="cid3044117" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044117" type="Item">75</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref88">
+                    <head>General note</head>
+                    <p>see 78 for a closer-up view</p>
+                </odd>
+            </c01>
+            <c01 id="ref87" level="item">
+                <did>
+                    <unittitle>River with riffles and floating debris, bluffs rising on left side of picture</unittitle>
+                    <container id="cid3044118" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044118" type="Item">76</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref89" level="item">
+                <did>
+                    <unittitle>Overhead view of river with bluffs on both sides, possible harvested crop to far right and on left bank</unittitle>
+                    <container id="cid3044119" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044119" type="Item">77</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref90" level="item">
+                <did>
+                    <unittitle>Calm river with flat rocks on right bank extending almost to left bank, bluffs on left, buildings on hilltop in distance</unittitle>
+                    <container id="cid3044120" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044120" type="Item">78</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref91">
+                    <head>General note</head>
+                    <p>see 75 for a distanced view</p>
+                </odd>
+            </c01>
+            <c01 id="ref92" level="item">
+                <did>
+                    <unittitle>Possibly flooded river running in front of vaguely Misson Style building, two round buildings in front, round structure connected to back of front building, railed walkway running up hill, low building to far right, possibly a house behind front building, buildings on hilltop in distance</unittitle>
+                    <container id="cid3044121" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044121" type="Item">79</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref93">
+                    <head>General note</head>
+                    <p>On bluff on left side, about halfway up is a strange clockface. Possibly a transfer from another picture?; picture has been creased down center</p>
+                </odd>
+            </c01>
+            <c01 id="ref94" level="item">
+                <did>
+                    <unittitle>View over river running into distance, bluffs on both sides, notation 
+                        <emph>Down Dick's River from Waterworks Gate (A.S. Robertson) 1907</emph></unittitle>
+                    <container id="cid3044122" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044122" type="Item">80</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref95" level="item">
+                <did>
+                    <unittitle>Log cabin and mill, cabin built on large rock and extends over small creek</unittitle>
+                    <container id="cid3044123" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044123" type="Item">81</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref96">
+                    <head>General note</head>
+                    <p>see photo 81 for another view of area</p>
+                </odd>
+            </c01>
+            <c01 id="ref97" level="item">
+                <did>
+                    <unittitle>Log cabin and mill on left, brushy area with fallen trees, bluffs in background, caption 
+                        <emph render="doublequote">Bill Meese's Mill - on the Cumberland- near Hermitage</emph></unittitle>
+                    <container id="cid3044124" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044124" type="Item">82</container>
+                    <unitdate>1907</unitdate>
+                </did>
+                <odd id="ref98">
+                    <head>General note</head>
+                    <p>see 82 for another view of area</p>
+                </odd>
+            </c01>
+            <c01 id="ref99" level="item">
+                <did>
+                    <unittitle>Woman sitting in boat with one paddle, large river behind her, large rounded rock to right</unittitle>
+                    <container id="cid3044125" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044125" type="Item">83</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref100" level="item">
+                <did>
+                    <unittitle>Bridge spanning high over river with train running across, walking path along river on left, some sort of structure in river to far right</unittitle>
+                    <container id="cid3044126" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044126" type="Item">84</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref101" level="item">
+                <did>
+                    <unittitle>Railroad bridge spanning high over river, small boat running on river, lots of timber on left bank, various buildings or houses on both banks</unittitle>
+                    <container id="cid3044127" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044127" type="Item">85</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref102" level="item">
+                <did>
+                    <unittitle>View of bridge leading off of cliff, man standing on top of bridge, large stone archway, bluffs below</unittitle>
+                    <container id="cid3044128" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044128" type="Item">86</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref103" level="item">
+                <did>
+                    <unittitle>River running into a fork, timber along banks, collection of buildings on far right bank, houses on left bank, small structure on top of bluff with steep stairs</unittitle>
+                    <container id="cid3044129" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044129" type="Item">87</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref104" level="item">
+                <did>
+                    <unittitle>Railroad bridge spanning over river, engine and car traveling along, timber along banks of river with two houses, two boats on river</unittitle>
+                    <container id="cid3044130" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044130" type="Item">88</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref105" level="item">
+                <did>
+                    <unittitle>Railroad bridge over river with train traveling along, lots of timber along far river bank, two women and one man walking along far bank</unittitle>
+                    <container id="cid3044131" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044131" type="Item">89</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref106" level="item">
+                <did>
+                    <unittitle>View taken from train tracks through two stone arches, two men on tracks;, dog walking along tracks, train car says 
+                        <emph>ventilated</emph>, building says 
+                        <emph>KR High Bridge</emph></unittitle>
+                    <container id="cid3044132" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044132" type="Item">90</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref107" level="item">
+                <did>
+                    <unittitle>Train traveling along High Bridge, two houses along river, timber all along right bank, two boats on left</unittitle>
+                    <container id="cid3044133" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044133" type="Item">91</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref108" level="item">
+                <did>
+                    <unittitle>Five people on walkway along river with bridge in background, broken fence along path</unittitle>
+                    <container id="cid3044134" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044134" type="Item">92</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref109" level="item">
+                <did>
+                    <unittitle>House and shed with clothesline in front of bluff, wooden fence in foreground</unittitle>
+                    <container id="cid3044135" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044135" type="Item">93</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref110" level="item">
+                <did>
+                    <unittitle>River with man made steps, brick and wooden structures to left, trhee ouses and building on left bank</unittitle>
+                    <container id="cid3044136" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044136" type="Item">94</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref111" level="item">
+                <did>
+                    <unittitle>Steps leading to room in cave, lattice covering entrance, sign reads 
+                        <emph>No lunching on the grounds</emph>, bag draped over low concrete wall</unittitle>
+                    <container id="cid3044137" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044137" type="Item">95</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref112" level="item">
+                <did>
+                    <unittitle>Steps in river, debris building upon them, very rocky far bank, stone structure on far bank</unittitle>
+                    <container id="cid3044138" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044138" type="Item">96</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref113" level="item">
+                <did>
+                    <unittitle>Some type of structure being built, ten men standing on top, one dog walking along top</unittitle>
+                    <container id="cid3044139" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044139" type="Item">97</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref114" level="item">
+                <did>
+                    <unittitle>Two men in boat rowing along river, bridge in distance, houses near bridge, long low building on right, notation 
+                        <emph>Bridge and Boone's Knob, Camp Nelson, 1907</emph></unittitle>
+                    <container id="cid3044140" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044140" type="Item">98</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref115" level="item">
+                <did>
+                    <unittitle>View from above of crops in valley, road going around bend in foreground, few buildings in distance, notation 
+                        <emph>Hickman Valley from Boone's Knob 1908</emph></unittitle>
+                    <container id="cid3044141" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044141" type="Item">99</container>
+                    <unitdate>1908</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref116" level="item">
+                <did>
+                    <unittitle>View from above of stooks in field surrounding house and barn, another house and barn in distance, notation 
+                        <emph>Hickman Valley Jessamine County Kentucky 1907</emph></unittitle>
+                    <container id="cid3044142" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044142" type="Item">100</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref117" level="item">
+                <did>
+                    <unittitle>Covered bridge over river, few houses and buildings surrounding it, notation 
+                        <emph>Single span wooden bridge over Kentucky River 1908, built in 1838, Camp Nelson</emph></unittitle>
+                    <container id="cid3044143" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044143" type="Item">101</container>
+                    <unitdate>1908</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref118" level="item">
+                <did>
+                    <unittitle>Caption 
+                        <emph render="doublequote">Bridge over Ky. River - Camp Nelson (mouth of Hickman) - 1907, built in 1838 </emph></unittitle>
+                    <container id="cid3044144" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044144" type="Item">102</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref144" level="item">
+                <did>
+                    <unittitle>River and bluffs on far bank</unittitle>
+                    <container id="cid4438001" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid4438001" type="Item">103</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref119" level="item">
+                <did>
+                    <unittitle>Multiple long low buildings on far bank, two large buildings with chimneys, two boats in foreground on near bank, notation 
+                        <emph>Boone's Knob mouth of Hickman (Camp Nelson) 1907</emph></unittitle>
+                    <container id="cid3044145" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044145" type="Item">104</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref120" level="item">
+                <did>
+                    <unittitle>House at base of bluffs, three other buildings around it, stone and wooden fences, bluffs rising on right, mouth of cave barely visible</unittitle>
+                    <container id="cid3044146" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044146" type="Item">105</container>
+                    <unitdate>1908</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref121" level="item">
+                <did>
+                    <unittitle>Wood and stone building with mill, barred windows, wooden fence in distance</unittitle>
+                    <container id="cid3044147" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044147" type="Item">106</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref122">
+                    <head>General note</head>
+                    <p>see photo 107</p>
+                </odd>
+            </c01>
+            <c01 id="ref123" level="item">
+                <did>
+                    <unittitle>Wood and stone building with mill, surrounded by stumps and poossibly dead trees, notation 
+                        <emph>Rice's Old Mill on Boone's Creek, Garrard Co, Apr. 28. 1907</emph></unittitle>
+                    <container id="cid3044148" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044148" type="Item">107</container>
+                    <unitdate>1907 Apr 28</unitdate>
+                </did>
+                <odd id="ref124">
+                    <head>General note</head>
+                    <p>see photo 106</p>
+                </odd>
+            </c01>
+            <c01 id="ref125" level="item">
+                <did>
+                    <unittitle>River with small caves and some type of layered rock on far shore</unittitle>
+                    <container id="cid3044149" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044149" type="Item">108</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref126" level="item">
+                <did>
+                    <unittitle>Stone building with shingled room, number 
+                        <emph>118</emph> on door, can on ground in front of door, two story building in back left, notation 
+                        <emph>Old Crow Station near Danville, Ky.</emph></unittitle>
+                    <container id="cid3044150" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044150" type="Item">109</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref127" level="item">
+                <did>
+                    <unittitle>Large marble memorial statue with man wearing hat and uniform with a mustache and gun, reads 
+                        <emph>Nor braver bled for a brighter land, nor brighter land had cause so grand. Confederate Memorial</emph>, notation 
+                        <emph>Perryville, KY 1907</emph></unittitle>
+                    <container id="cid3044151" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044151" type="Item">110</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref128" level="item">
+                <did>
+                    <unittitle>Small spring with a few large rocks, notation 
+                        <emph>Battle Spring, Perryville, 1907</emph></unittitle>
+                    <container id="cid3044152" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044152" type="Item">111</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref129" level="item">
+                <did>
+                    <unittitle>Eleven ducks swimming near a bucket in a river, notation 
+                        <emph>Perryville Battlefield 1907 Chapin River above spring</emph></unittitle>
+                    <container id="cid3044153" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044153" type="Item">112</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref130" level="item">
+                <did>
+                    <unittitle>House with stone chimney, one man standing on nearest edge of porch, one man leaning back in his chair and two women sitting at opposite end of porch, wooden fence extending from porch to small building behind house, notation 
+                        <emph>Perryville Battlefield 1907 Bottom's House, below the stone fence</emph></unittitle>
+                    <container id="cid3044154" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044154" type="Item">113</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref131" level="item">
+                <did>
+                    <unittitle>River with stone fence running along far back, multiple ducks standing on rocks in the middle of the river, notation 
+                        <emph>Perryville Battlefield 1907 Chaplin River, below spring</emph></unittitle>
+                    <container id="cid3044155" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044155" type="Item">114</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref132" level="item">
+                <did>
+                    <unittitle>Dilapidated wooden building with stone fence running in front, possibly crops on right side of building, another wooden fence running off in left, notation 
+                        <emph>Perryville Battlefield, 1907, stone fence, breastworks of Memphis Regiment</emph></unittitle>
+                    <container id="cid3044156" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044156" type="Item">115</container>
+                    <unitdate>1907</unitdate>
+                </did>
+                <odd id="ref133">
+                    <head>General note</head>
+                    <p>see photo 116</p>
+                </odd>
+            </c01>
+            <c01 id="ref134" level="item">
+                <did>
+                    <unittitle>Dilapidated wooden building to left, stone fence running along in front, possibly crops in between two buildings, notation 
+                        <emph>Stone Fence (H.G.S.) Perryville Battlefield</emph></unittitle>
+                    <container id="cid3044157" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044157" type="Item">116</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref135">
+                    <head>General note</head>
+                    <p>see photo 115</p>
+                </odd>
+            </c01>
+            <c01 id="ref136" level="item">
+                <did>
+                    <unittitle>View over field, trees and hills in distance, notation 
+                        <emph>Birdseye, Perryville Battlefield 1907</emph></unittitle>
+                    <container id="cid3044158" type="Box" label="Graphic materials">1</container>
+                    <container parent="cid3044158" type="Item">117</container>
+                    <unitdate>1907</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

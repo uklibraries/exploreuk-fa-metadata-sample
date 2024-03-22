@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>1997MS479</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Watts family papers, 1790-1932
+                    <num>1997ms479</num>
+                </titleproper>
+                <titleproper type="filing">Watts family papers</titleproper>
+                <author>Finding aid prepared by Margaret Roulett</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://kdl.kyvl.org/images/seals/ukseal.gif"/>
+                </p>
+                <publisher>University of Kentucky Special Collections</publisher>
+                <address>
+                    <addressline>Special Collections</addressline>
+                    <addressline>Margaret I. King Building, North</addressline>
+                    <addressline>Lexington, KY, 40506-0039</addressline>
+                    <addressline>(859) 257-8611</addressline>
+                    <addressline>SCLREF@LSV.UKY.EDU</addressline>
+                </address>
+                <date>2014 September 19</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-02-13T16:14-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Watts family papers</unittitle>
+            <unitid>1997ms479</unitid>
+            <repository>
+                <corpname>University of Kentucky Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.23 Cubic feet</extent>
+                <extent>1 box</extent>
+            </physdesc>
+            <unitdate>circa 1790-1871</unitdate>
+            <abstract id="ref22" label="Abstract">The Watts family papers (dated 1790-1932; 0.23 cubic feet; 1 box) comprise correspondence, legal documents, financial papers, slave deeds, ledgers and account papers, land surveys, and envelopes, which document the Watts family of Fayette County, Kentucky, their land interests, their involvement in slavery, and their financial dealings.</abstract>
+        </did>
+        <scopecontent id="ref20">
+            <head>Scope and Contents note</head>
+            <p>The Watts family papers (dated 1790-1932; 0.23 cubic feet; 1 box) comprise correspondence, legal documents, financial papers, slave deeds, ledgers and account papers, land surveys, and envelopes, which document the Watts family of Fayette County, Kentucky, their land interests, their involvement in slavery, and their financial dealings.</p>
+            <p>The papers include material related to the purchasing and surveying of land; detailed land surveys with diagrams; correspondence debating legitimacy of land surveys in Fayette County, Kentucky; and land deeds, both hand written and preprinted. The financial papers include correspondence about title bonds, Garrett Watts’ (1796-1873) personal ledger, and numerous bills of sales regarding the purchasing of slaves (Box 1, Folder 3). The will of Jonathon Parish, where Garrett Watts (1796-1875) acted as the will executor, is part of this collection. The legal documents include an indenture of land between David Watts (1761-1835) and Jacob and Catherine Laudeman and an indenture of land for Randall Noe signed by Charles Morgan and Susanna Morgan. The material relating to William David Watts (1851-1943) consists of 10 envelopes addressed to him; bank receipts; account invoices from blacksmiths, wood workers, doctors, gas fitters, plumbers, frescoers, grocers, horse shoers, tile layers, shoe stores, proprietors, art mantel and hall clock dealers hardware stores, lumber stores, carpet and wall paper stores, galvanized iron and copper cornices, coal and heating companies, furniture stores, grain and hemp businesses, window and paint stores, and fence companies. Finally, there is a typecript copy of the will of Joel Quisenberry.</p>
+        </scopecontent>
+        <bioghist id="ref21">
+            <head>Biographical note</head>
+            <p>Both born in Albemarle County, Virginia, David Winston Watts (1761-1835) married Ruth Twymann (1757-1837) in Albemarle County, Virginia. They had nine children. Their sixth and seventh children were Garrett Watts (1796-1873) and David Watts (1800-1854), respectively. Garrett Watts married Martha Terrell Twyman (1801-1842) from Albemarle, Virginia. They had seven children. Their sixth child was David Twyman Watts (1831-1854). He married Talitha Quisenberry (1824-1885), of Clark County, Kentucky on November 17, 1849. They had two children: William David Watts (1851-1943) and Garrett Watts (1853-1952). William David Watts married Ella Chenault (1861-1918), from Madison County, Kentucky, on February 10, 1880. They had three daughters: Lillian Watts (1880-1953), Ethel Watts (1882-1961), and Aileen Watts (1887-1970). Garrett Watts married Minnie Gay (1863-1957).</p>
+            <p>Born in Madison, Virginia, Joel Quisenberry (1784-1847) married Elizabeth Haggard (1784-1847), from Albemarle, Virginia, on August 21, 1804 in Winchester, Kentucky. They had thirteen children. Their tenth child was Talitha Quisenberry (1824-1885) who married David Twyman Watts in 1849.</p>
+        </bioghist>
+        <arrangement id="ref23">
+            <head>Arrangement note</head>
+            <p>Collection is arranged by subject and format.</p>
+        </arrangement>
+        <accessrestrict id="ref24">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open to researchers by appointment.</p>
+        </accessrestrict>
+        <userestrict id="ref25">
+            <head>Conditions Governing Use note</head>
+            <p>Property rights reside with the University of Kentucky. The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky. For information about permission to reproduce or publish, please contact Special Collections.</p>
+        </userestrict>
+        <prefercite id="ref26">
+            <head>Preferred Citation note</head>
+            <p>1997MS479: [identification of item], Watts family papers, 1790-1932, University of Kentucky Special Collections.</p>
+        </prefercite>
+        <controlaccess>
+            <famname rules="aacr" source="local">Watts family, Fayette County (Ky.)</famname>
+            <persname rules="aacr" source="local">Watts, David, 1761-1835</persname>
+            <persname rules="aacr" source="local">Watts, David, 1800-1854</persname>
+            <persname rules="aacr" source="local">Watts, Garrett, 1796-1873</persname>
+            <subject source="local">Commerce--Kentucky</subject>
+            <subject source="lcsh">Deeds.</subject>
+            <subject source="lcsh">Land titles--Kentucky.</subject>
+            <subject source="lcsh">Land titles--Registration and transfer--Kentucky.</subject>
+            <subject source="lcsh">Lexington (Ky.)--Genealogy</subject>
+            <subject source="lcsh">Real property surveys</subject>
+            <subject source="lcsh">Receipts (Acknowledgments)</subject>
+            <subject source="lcsh">Slave records--Kentucky.</subject>
+            <subject source="lcsh">Slaveholders--Kentucky</subject>
+            <subject source="lcsh">Slavery</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="file">
+                <did>
+                    <unittitle>Garrett Watts (1796-1873) correspondence</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4340001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4340001" type="Folder">1</container>
+                    <unitdate>1848</unitdate>
+                <dao entityref="xt7x3f4knz7q_1_1"/></did>
+            </c01>
+            <c01 id="ref5" level="file">
+                <did>
+                    <unittitle>Garrett Watts (1796-1873) land documents</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4340002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4340002" type="Folder">2</container>
+                    <unitdate>1822-1863, undated</unitdate>
+                <dao entityref="xt7x3f4knz7q_2_1"/></did>
+            </c01>
+            <c01 id="ref6" level="file">
+                <did>
+                    <unittitle>Garrett Watts (1796-1873) bills of sale</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4340003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4340003" type="Folder">3</container>
+                    <unitdate>1822-1862</unitdate>
+                <dao entityref="xt7x3f4knz7q_3_1"/></did>
+            </c01>
+            <c01 id="ref7" level="file">
+                <did>
+                    <unittitle>Garrett Watts (1796-1873) Jonathon Parish will executor</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4340004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4340004" type="Folder">4</container>
+                    <unitdate>1828</unitdate>
+                <dao entityref="xt7x3f4knz7q_4_1"/></did>
+            </c01>
+            <c01 id="ref8" level="file">
+                <did>
+                    <unittitle>David Watts (1761-1835) indentures</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4340005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4340005" type="Folder">5</container>
+                    <unitdate>1805</unitdate>
+                <dao entityref="xt7x3f4knz7q_5_1"/></did>
+            </c01>
+            <c01 id="ref9" level="file">
+                <did>
+                    <unittitle>David Watts (1800-1854) concordance</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345001" type="Folder">6</container>
+                    <unitdate>1849</unitdate>
+                <dao entityref="xt7x3f4knz7q_6_1"/></did>
+            </c01>
+            <c01 id="ref10" level="file">
+                <did>
+                    <unittitle>David Watts (1800-1854) surveys</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345002" type="Folder">7</container>
+                    <unitdate>1831-1848</unitdate>
+                <dao entityref="xt7x3f4knz7q_7_1"/></did>
+            </c01>
+            <c01 id="ref11" level="file">
+                <did>
+                    <unittitle>Robert Boggs survey</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345003" type="Folder">8</container>
+                    <unitdate>1828</unitdate>
+                <dao entityref="xt7x3f4knz7q_8_1"/></did>
+            </c01>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>Robert Boggs slave deed</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345004" type="Folder">9</container>
+                    <unitdate>1828</unitdate>
+                <dao entityref="xt7x3f4knz7q_9_1"/></did>
+            </c01>
+            <c01 id="ref13" level="file">
+                <did>
+                    <unittitle>George Boon slave deed</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345005" type="Folder">10</container>
+                    <unitdate>1839</unitdate>
+                <dao entityref="xt7x3f4knz7q_10_1"/></did>
+            </c01>
+            <c01 id="ref14" level="file">
+                <did>
+                    <unittitle>Charles Morgan indenture to Randall Noe</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345006" type="Folder">11</container>
+                    <unitdate>1790</unitdate>
+                <dao entityref="xt7x3f4knz7q_11_1"/></did>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>J. T. Slade receipt</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345007" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345007" type="Folder">12</container>
+                    <unitdate>1871</unitdate>
+                <dao entityref="xt7x3f4knz7q_12_1"/></did>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>William D. Watts (1851-1943) receipts</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345008" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345008" type="Folder">13</container>
+                    <unitdate>1900-1917</unitdate>
+                <dao entityref="xt7x3f4knz7q_13_1"/></did>
+            </c01>
+            <c01 id="ref17" level="file">
+                <did>
+                    <unittitle>T. R. Bryant envelope</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345009" type="Folder">14</container>
+                    <unitdate>1932</unitdate>
+                <dao entityref="xt7x3f4knz7q_14_1"/></did>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle>H. G. Edwards invoice</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345010" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345010" type="Folder">15</container>
+                    <unitdate>1917</unitdate>
+                <dao entityref="xt7x3f4knz7q_15_1"/></did>
+            </c01>
+            <c01 id="ref19" level="file">
+                <did>
+                    <unittitle>Joel Quisenberry (1784-1847) will, typescript</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid4345011" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4345011" type="Folder">16</container>
+                    <unitdate>1847</unitdate>
+                <dao entityref="xt7x3f4knz7q_16_1"/></did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

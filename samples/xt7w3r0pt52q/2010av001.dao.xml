@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>2010av001</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>E.T. Wightman collection on 1936 Olympics, circa 1936
+                    <num>2010av001</num>
+                </titleproper>
+                <titleproper type="filing">E.T. Wightman collection on 1936 Olympics</titleproper>
+                <author>Finding aid prepared by Desirae Carron</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://kdl.kyvl.org/images/seals/ukseal.gif"/>
+                </p>
+                <publisher>University of Kentucky Special Collections</publisher>
+                <address>
+                    <addressline>Special Collections</addressline>
+                    <addressline>Margaret I. King Building, North</addressline>
+                    <addressline>Lexington, KY, 40506-0039</addressline>
+                    <addressline>(859) 257-8611</addressline>
+                    <addressline>SCLREF@LSV.UKY.EDU</addressline>
+                </address>
+                <date>2013 June 28</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-10-10T15:13-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>E. T. Wightman collection on 1936 Olympics</unittitle>
+            <unitid>2010av001</unitid>
+            <repository>
+                <corpname>University of Kentucky Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.32 Cubic feet</extent>
+                <extent>2 boxes</extent>
+            </physdesc>
+            <unitdate>circa 1936</unitdate>
+            <abstract id="ref90" label="Abstract">The E. T. Wightman collection on 1936 Olympics (dated circa 1936; 0.32 cubic feet; 2 boxes) includes postcards, photographs, and pamphlets relating to the 1936 Olympics in Germany as well as the World Poultry Congress. The 1936 Olympics were hosted in Berlin, Germany. Adolf Hitler used the games to demonstrate his power and prestige. In the same year, the Poultry Congress was held in Leipzig, Germany.</abstract>
+        </did>
+        <bioghist id="ref88">
+            <head>Historical note</head>
+            <p>The 1936 Olympics were hosted in Berlin, Germany. Adolf Hitler used the games to demonstrate his power and prestige. In the same year, the Poultry Congress was held in Leipzig, Germany.</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>The E. T. Wightman collection on 1936 Olympics (dated circa 1936; 0.32 cubic feet; 2 boxes) includes postcards, photographs, and pamphlets relating to the 1936 Olympics in Germany as well as the World Poultry Congress. The collection is arranged into two series: photographs and papers. The Photographs series includes photographs of Olympic venues adorned with swastikas and photographs of the World Poultry Congress. Papers series consists of manuscript items relating to both events.</p>
+        </scopecontent>
+        <accessrestrict id="ref81">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open to researchers by appointment.</p>
+        </accessrestrict>
+        <userestrict id="ref82">
+            <head>Conditions Governing Use note</head>
+            <p>Property rights reside with the University of Kentucky. The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky. For information about permission to reproduce or publish, please contact Special Collections.</p>
+        </userestrict>
+        <prefercite id="ref83">
+            <head>Preferred Citation note</head>
+            <p>2010av001: [identification of item], E.T. Wightman collection on 1936 Olympics, circa 1936, University of Kentucky Special Collections.</p>
+        </prefercite>
+        <arrangement id="ref89">
+            <head>Arrangement note</head>
+            <p>Collection is arranged by format.</p>
+        </arrangement>
+        <controlaccess>
+            <subject source="lcsh">Agriculture--History--19th century.</subject>
+            <geogname source="lcsh">Germany.</geogname>
+            <subject source="lcsh">Olympics</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref75" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>Series I.</unitid>
+                    <physdesc>
+                        <extent>0.09 </extent>
+                        <extent>72 items</extent>
+                    </physdesc>
+                    <unitdate>circa 1936</unitdate>
+                </did>
+                <scopecontent id="ref85">
+                    <head>Scope and Contents note</head>
+                    <p>The Photograph series consists of 72 photographs depicting the 1936 Olympics and the World Poultry Congress. The first 33 photographs are related to agriculture and the World Poultry Congress, showing farms, barns, and chicken coops. The rest of the series documents the 1936 Olympics, and includes photographs of the stadiums, pools , and tracks, as well as various places in Germany.</p>
+                </scopecontent>
+                <c02 id="ref3" level="item">
+                    <did>
+                        <unittitle>Concrete walls around vegetation</unittitle>
+                        <container id="cid3076001" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076001" type="Item">1</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref4" level="item">
+                    <did>
+                        <unittitle>Chicken in garden</unittitle>
+                        <container id="cid3076002" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076002" type="Item">2</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref5" level="item">
+                    <did>
+                        <unittitle>Horse next to road</unittitle>
+                        <container id="cid3076003" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076003" type="Item">3</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref6" level="item">
+                    <did>
+                        <unittitle>Several chickens in yard</unittitle>
+                        <container id="cid3076004" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076004" type="Item">4</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref7" level="item">
+                    <did>
+                        <unittitle>Landscape, chicken coop</unittitle>
+                        <container id="cid3076005" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076005" type="Item">5</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="item">
+                    <did>
+                        <unittitle>Landscape, chicken coop</unittitle>
+                        <container id="cid3076006" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076006" type="Item">6</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="item">
+                    <did>
+                        <unittitle>Landscape, hills and forest</unittitle>
+                        <container id="cid3076007" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076007" type="Item">7</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="item">
+                    <did>
+                        <unittitle>Plants over white picket fence</unittitle>
+                        <container id="cid3076008" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076008" type="Item">8</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>Tiled rooves of houses</unittitle>
+                        <container id="cid3076009" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076009" type="Item">9</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="item">
+                    <did>
+                        <unittitle>Landscape of hills</unittitle>
+                        <container id="cid3076010" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076010" type="Item">10</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>Barn</unittitle>
+                        <container id="cid3076011" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076011" type="Item">11</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>Greenhouses</unittitle>
+                        <container id="cid3076012" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076012" type="Item">12</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>Building in field</unittitle>
+                        <container id="cid3076013" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076013" type="Item">13</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>Chicken coop</unittitle>
+                        <container id="cid3076014" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076014" type="Item">14</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Hills and forest</unittitle>
+                        <container id="cid3076015" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076015" type="Item">15</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>One-story house</unittitle>
+                        <container id="cid3076016" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076016" type="Item">16</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Trees, dirt road</unittitle>
+                        <container id="cid3076017" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076017" type="Item">17</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>Trees, hills</unittitle>
+                        <container id="cid3076018" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076018" type="Item">18</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>Wooden structure in field</unittitle>
+                        <container id="cid3076019" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076019" type="Item">19</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>Man walking into building</unittitle>
+                        <container id="cid3076020" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076020" type="Item">20</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>Woman picking a plant in a garden</unittitle>
+                        <container id="cid3076021" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076021" type="Item">21</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>Trees, cloud in sky overhead</unittitle>
+                        <container id="cid3076022" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076022" type="Item">22</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>Two chickens near wire fence</unittitle>
+                        <container id="cid3076023" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076023" type="Item">23</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="item">
+                    <did>
+                        <unittitle>Two chickens near wire fence</unittitle>
+                        <container id="cid3076024" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076024" type="Item">24</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>Crowd outside wooden building</unittitle>
+                        <container id="cid3076025" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076025" type="Item">25</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>Wood and brick buildings in field</unittitle>
+                        <container id="cid3076026" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076026" type="Item">26</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Rail track next to farm</unittitle>
+                        <container id="cid3076027" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076027" type="Item">27</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>Field with wall in distance</unittitle>
+                        <container id="cid3076028" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076028" type="Item">28</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="item">
+                    <did>
+                        <unittitle>Woman walking in a garden outside building</unittitle>
+                        <container id="cid3076029" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076029" type="Item">29</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="item">
+                    <did>
+                        <unittitle>Field and wooden fence</unittitle>
+                        <container id="cid3076030" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076030" type="Item">30</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>Group of people standing outside chicken coop</unittitle>
+                        <container id="cid3076031" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076031" type="Item">31</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>Chicken coops</unittitle>
+                        <container id="cid3076032" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076032" type="Item">32</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="item">
+                    <did>
+                        <unittitle>Castle and trees</unittitle>
+                        <container id="cid3076033" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076033" type="Item">33</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="item">
+                    <did>
+                        <unittitle>Hollywood from the hills, Los Angeles in the distance, California - Postcard</unittitle>
+                        <container id="cid3076034" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076034" type="Item">34</container>
+                        <unitdate>1937 July 8</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="item">
+                    <did>
+                        <unittitle>Reichsgartenschau (Garden Show) postcard, Dresden</unittitle>
+                        <container id="cid3076035" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076035" type="Item">35</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>800 meter dash</unittitle>
+                        <container id="cid3076036" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076036" type="Item">36</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="item">
+                    <did>
+                        <unittitle>Frankfurt, City Hall</unittitle>
+                        <container id="cid3076037" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076037" type="Item">37</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>Adolf Hitler Platz, Berlin</unittitle>
+                        <container id="cid3076038" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076038" type="Item">38</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>Christus (Long)</unittitle>
+                        <container id="cid3076039" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076039" type="Item">39</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="item">
+                    <did>
+                        <unittitle>Nüremberg Marketplace</unittitle>
+                        <container id="cid3076040" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076040" type="Item">40</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="item">
+                    <did>
+                        <unittitle>Lauterbrummen near Interlaken</unittitle>
+                        <container id="cid3076041" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076041" type="Item">41</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="doublequote">The boss - in the act. </title></unittitle>
+                        <container id="cid3076042" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076042" type="Item">42</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="item">
+                    <did>
+                        <unittitle>Heidelberg and Neckar</unittitle>
+                        <container id="cid3076043" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076043" type="Item">43</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="item">
+                    <did>
+                        <unittitle>Rhine glacier</unittitle>
+                        <container id="cid3076044" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076044" type="Item">44</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>Early Sunday morning (track at stadium)</unittitle>
+                        <container id="cid3076045" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076045" type="Item">45</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="item">
+                    <did>
+                        <unittitle>Rhine glacier</unittitle>
+                        <container id="cid3076046" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076046" type="Item">46</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="item">
+                    <did>
+                        <unittitle>Heidelberg Castle</unittitle>
+                        <container id="cid3076047" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076047" type="Item">47</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>Local color, Rhine Glaciel Valley</unittitle>
+                        <container id="cid3076048" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076048" type="Item">48</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="item">
+                    <did>
+                        <unittitle>Erding - Mr. Munich</unittitle>
+                        <container id="cid3076049" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076049" type="Item">49</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>Reichssportfeld, postcard</unittitle>
+                        <container id="cid3076050" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076050" type="Item">50</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>Olympic swimming pools, postcard</unittitle>
+                        <container id="cid3076051" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076051" type="Item">51</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="item">
+                    <did>
+                        <unittitle>Reichssportfeld, Olympia - Stadion</unittitle>
+                        <container id="cid3076052" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076052" type="Item">52</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>Gesamtansicht Reichssportfeld, postcard</unittitle>
+                        <container id="cid3076053" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076053" type="Item">53</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>Reichssportfeld, postcard</unittitle>
+                        <container id="cid3076054" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076054" type="Item">54</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="item">
+                    <did>
+                        <unittitle>Gesamtansicht Reichssportfeld</unittitle>
+                        <container id="cid3076055" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076055" type="Item">55</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="item">
+                    <did>
+                        <unittitle>Reichssportfeld, postcard</unittitle>
+                        <container id="cid3076056" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076056" type="Item">56</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>Reichssportfeld, postcard</unittitle>
+                        <container id="cid3076057" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076057" type="Item">57</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>Der Einzug des Herakles</unittitle>
+                        <container id="cid3076058" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076058" type="Item">58</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="item">
+                    <did>
+                        <unittitle>Olympiaschanze Garmisch - Partenkirchen (skiing)</unittitle>
+                        <container id="cid3076059" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076059" type="Item">59</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>Three children kneeling next to stream (negative)</unittitle>
+                        <container id="cid3076060" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076060" type="Item">60</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>Man standing next to wagon (negative)</unittitle>
+                        <container id="cid3076061" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076061" type="Item">61</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="item">
+                    <did>
+                        <unittitle>House and yard (negative)</unittitle>
+                        <container id="cid3076062" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076062" type="Item">62</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="item">
+                    <did>
+                        <unittitle>House and yard (negative)</unittitle>
+                        <container id="cid3076063" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076063" type="Item">63</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>People standing in yard (negative)</unittitle>
+                        <container id="cid3076064" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076064" type="Item">64</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="item">
+                    <did>
+                        <unittitle>View of field over fence (negative)</unittitle>
+                        <container id="cid3076065" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076065" type="Item">65</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="item">
+                    <did>
+                        <unittitle>Woman standing on bridge in garden (negative)</unittitle>
+                        <container id="cid3076066" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076066" type="Item">66</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>Atelier Helionovum, Maschinenbau</unittitle>
+                        <container id="cid3076067" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076067" type="Item">67</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="item">
+                    <did>
+                        <unittitle>Setting up a large tent</unittitle>
+                        <container id="cid3076068" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076068" type="Item">68</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="item">
+                    <did>
+                        <unittitle>Covered garden</unittitle>
+                        <container id="cid3076069" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076069" type="Item">69</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="item">
+                    <did>
+                        <unittitle>Indoor flower and bird display</unittitle>
+                        <container id="cid3076070" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076070" type="Item">70</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="item">
+                    <did>
+                        <unittitle>Displays in a large hall</unittitle>
+                        <container id="cid3076071" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076071" type="Item">71</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="item">
+                    <did>
+                        <unittitle>Division of Civil Defense, Military Affairs - Commonwealth of Kentucky - Rescue Service Vehicle</unittitle>
+                        <container id="cid3076072" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3076072" type="Item">72</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref76" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                    <unitid>Series II. </unitid>
+                    <physdesc>
+                        <extent>0.23 Cubic feet</extent>
+                        <extent>1 box</extent>
+                    </physdesc>
+                    <unitdate>circa 1936</unitdate>
+                </did>
+                <scopecontent id="ref86">
+                    <head>Scope and Contents note</head>
+                    <p>The Papers series includes manuscript material divided into four categories: a tourist's to Westminster Abbey in Britain; papers that relate to the Poultry Congress; empty envelopes; and items concerning the 1936 Olympics. One notable item (box 2, folder 3) is a small advertisement for a hotel that boasts having been the first Jew-free hotel, open for forty years. Another is a menu for the farewell meal for the Olympic athletes (box 2, folder 3).</p>
+                </scopecontent>
+                <controlaccess>
+                    <subject source="lcsh">Agriculture--History--19th century.</subject>
+                    <geogname source="lcsh">Germany.</geogname>
+                    <subject source="lcsh">Olympics</subject>
+                </controlaccess>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Westminster Abbey, Official Guide</unittitle>
+                        <container id="cid3076073" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid3076073" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Agriculture/Poultry</unittitle>
+                        <container id="cid3076074" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid3076074" type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>1936 Olympics</unittitle>
+                        <container id="cid3076075" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid3076075" type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Envelopes</unittitle>
+                        <container id="cid3076076" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid3076076" type="Folder">4</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

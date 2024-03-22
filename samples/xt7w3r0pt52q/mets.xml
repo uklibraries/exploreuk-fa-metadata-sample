@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:rights="http://www.loc.gov/rights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:bib="http://www.loc.gov/mets/profiles/bibRecord" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="2010av001" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" PROFILE="lc:bibRecord">
+<metsHdr CREATEDATE="2013-10-22T15:53:24" LASTMODDATE="2013-10-22T15:53:24" RECORDSTATUS="Production">
+<mets:agent ROLE="CREATOR" TYPE="REPOSITORY">
+<mets:name>University of Kentucky</mets:name>
+<mets:note>SIP METS submitted to KDL.</mets:note>
+</mets:agent>
+<mets:agent ROLE="PRESERVATION" TYPE="ORGANIZATION">
+<mets:name>University of Kentucky</mets:name>
+<mets:note>SIP METS and associated file(s) submitted in University of Kentucky Preservation Repository.</mets:note>
+</mets:agent>
+<mets:altRecordID TYPE="DLXS">2010av001</mets:altRecordID>
+</metsHdr>
+<mets:dmdSec ID="DMD1">
+<mets:mdWrap MIMETYPE="text/xml" MDTYPE="OAI_DC">
+<mets:xmlData>
+<oai_dc:dc 
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xml:lang="en">E. T. Wightman collection on 1936 Olympics</dc:title>
+  <dc:source>E. T. Wightman collection on 1936 Olympics</dc:source>
+  <dc:creator>unknown</dc:creator>
+  <dc:subject>Agriculture--History--19th century.</dc:subject>
+  <dc:subject>Olympics</dc:subject>
+  <dc:publisher>University of Kentucky</dc:publisher>
+  <dc:date>circa 1936</dc:date>
+  <dc:format>collections</dc:format>
+  <dc:type>text</dc:type>
+  <dc:language>english</dc:language>
+  <dc:rights xml:lang="en">This digital resource may be freely searched and displayed.  Permission must be received for subsequent distribution in print or electronically.  Physical rights are retained by the owning repository.  Copyright is retained in accordance with U. S. copyright laws.  Please go to http://kdl.kyvl.org for more information.</dc:rights>
+  <dc:description>0.32 Cubic feet 2 boxes The E. T. Wightman collection on 1936 Olympics (dated circa 1936; 0.32 cubic feet; 2 boxes) includes postcards, photographs, and pamphlets relating to the 1936 Olympics in Germany as well as the World Poultry Congress. The 1936 Olympics were hosted in Berlin, Germany. Adolf Hitler used the games to demonstrate his power and prestige. In the same year, the Poultry Congress was held in Leipzig, Germany.</dc:description>
+</oai_dc:dc>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:amdSec>
+  <mets:rightsMD ID="RMD1">
+    <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="RIGHTSMD">
+      <mets:xmlData>
+        <mets:versionStatement>2013</mets:versionStatement>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:rightsMD>
+<mets:rightsMD ID="ADMRTS1">
+<mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRights">
+<mets:xmlData>
+<mets:RightsDeclarationMD RIGHTSCATEGORY="">
+<mets:Context CONTEXTCLASS="GENERAL PUBLIC">
+<mets:Constraints CONSTRAINTTYPE="RE-USE">
+<mets:ConstraintDescription>View Collection Guide to obtain rights information.</mets:ConstraintDescription>
+</mets:Constraints>
+</mets:Context>
+</mets:RightsDeclarationMD>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:rightsMD>
+</mets:amdSec>
+<mets:fileSec>
+  <mets:fileGrp ID="FileGrpFindingAid" USE="Finding Aid">
+    <mets:file ID="MasterFindingAid" USE="master" MIMETYPE="application/xml">
+      <mets:FLocat xlink:href="2010av001.xml" LOCTYPE="OTHER"/>
+    </mets:file>
+   <mets:file ID="AccessFindingAid" USE="access" MIMETYPE="application/xml">
+     <mets:FLocat xlink:href="2010av001.dao.xml" LOCTYPE="OTHER"/>
+   </mets:file>
+  </mets:fileGrp>
+</mets:fileSec>
+<mets:structMap>
+</mets:structMap>
+</mets:mets>

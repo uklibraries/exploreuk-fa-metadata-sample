@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">59m120</eadid><filedesc><titlestmt><titleproper type="filing">Garnett, James scrapbook</titleproper><titleproper>Guide to the James Garnett scrapbook, 1895-1937, bulk 1910-1937 <num>59m120</num></titleproper><author>Megan Mummey</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2012 April 3</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new" xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-16 15:37:47 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>James Garnett scrapbook</unittitle>
+    <unitid>59m120</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Cubic Feet</extent>
+      <extent altrender="carrier">1 item</extent>
+    </physdesc>
+    <unitdate normal="1895/1937" type="inclusive">1895-1937</unitdate>
+    <unitdate normal="1910/1937" type="bulk">1910-1937</unitdate>
+    <abstract id="aspace_7d518f8099773f8ad3b55623aa3cfc23">The James Garnett scrapbook (dated 1895-1937, bulk 1910-1937; 0.2 cubic feet; 1 item) comprises a scrapbook of newspaper clippings kept by James Garnett primarily during his term as Kentucky Attorney General.</abstract>
+  </did>
+  <accessrestrict id="aspace_d92fcadaf1fc5fb3d9c4125272170b74">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <arrangement id="aspace_a878b1150e32bb79288d6f2f04fcbd73">
+    <head>Arrangement</head>
+<p>Collection is arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_4c66f9d5cec973e72f50fda7e488ca1d">
+    <head>Biographical note</head>
+<p>James Garnett, a Kentucky politician and judge, was born in Columbia, Kentucky, in 1871. He attended Columbia and Georgetown Colleges in Kentucky and received a degree in law from the University of Louisville in 1893. He served as county attorney in Adair County from 1897 to 1907 and as Kentucky's attorney general from 1911 to 1915. During his tenure as attorney general, he became involved in a controversy over railroad taxes. Justus Goebel, brother of the assassinated Governor William Goebel, accused Garnett of collusion with the railroads for trying to settle a suit for back taxes out of court. After his term of office, Garnett became a judge in the Chancery branch of the Jefferson County Circuit Court.</p>  </bioghist>
+  <prefercite id="aspace_9f166abda72bd273e8b977e23213c498">
+    <head>Preferred Citation</head>
+<p>59m120: [identification of item], James Garnett scrapbook, 1895-1937, bulk 1910-1937, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_f129a216ef9a375bebf0fd180bd99f54">
+    <head>Scope and Contents</head>
+<p>The James Garnett scrapbook (dated 1895-1937, bulk 1910-1937; 0.2 cubic feet; 1 item) comprises a scrapbook of newspaper clippings kept by James Garnett primarily during his term as Kentucky Attorney General. The clippings concern state politics, Theodore Roosevelt's third party movement in 1912, and the controversy over railroad taxes during his tenure as Attorney General. The scrapbook includes loose clippings dating from 1895 to 1937, most of which relate to Garnett's judicial career.</p>  </scopecontent>
+  <userestrict id="aspace_7b3f0786d9d22b4c7b3e9b42f3124b82">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="lcsh">Clippings (Books, newspapers, etc.)</genreform>
+    <subject source="lcsh">Judges.</subject>
+    <geogname source="lcsh">Kentucky -- Politics and government -- 1865-1950.</geogname>
+    <subject source="lcsh">Politicians.</subject>
+    <subject source="lcsh">Railroads -- Kentucky.</subject>
+    <title authfilenumber="n 86710275" source="lcsh">Scrapbooks</title>
+    <geogname source="lcsh">United States -- Politics and government -- 1909-1913</geogname>
+    <persname rules="aacr" source="local">Garnett, James, 1871-1939</persname>
+    <persname rules="aacr" source="local">Goebel, Justus, 1858-1919</persname>
+    <persname rules="aacr" source="naf">Roosevelt, Theodore, 1858-1919</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_48b5d8ec94b93fe323f7341ada78becc" level="item"><did><unittitle>James Garnett scrapbook</unittitle><unitdate type="inclusive">1895-1937</unitdate><container id="aspace_152aff96eafb7038a5fc217f69b51bcc" label="mixed materials" type="item">1</container></did></c01></dsc>
+</archdesc>
+</ead>
